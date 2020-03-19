@@ -7,6 +7,6 @@ Being a student of network science, I studied network analysis through DataCamp,
 The accompanying lesson and coding walk through are here:
 
 ### Networks Lesson
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y0POTPc4cCY "Networks Lesson")
+[![Networks Lesson on YouTube](https://github.com/LouisRBurns/network_analysis_lesson/blob/master/networks_lesson.png)](https://www.youtube.com/watch?v=y0POTPc4cCY "Networks Lesson")
 ### Networks Coding
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y0POTPc4cCY "Networks Lesson")
+[![Networks Coding on YouTube](https://github.com/LouisRBurns/network_analysis_lesson/blob/master/networks_coding.png)](https://www.youtube.com/watch?v=hUCLRVJ7vrs "Networks Coding")
